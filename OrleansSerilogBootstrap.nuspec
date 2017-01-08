@@ -10,7 +10,10 @@
         <projectUrl>https://github.com/WeKnowSports/OrleansSerilogBootstrap</projectUrl>
         <iconUrl>https://avatars3.githubusercontent.com/u/17160784?v=3&amp;s=200</iconUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
-        <description>dd</description>
+        <description>Orleans Bootstrap to log data via Serilog:
+                      1) intercept each grain call and log request and response.
+                      2) log all available info which delivered by ILogConsumer
+        </description>
         <copyright>SBTech Copyright © 2017</copyright>
         <tags>Orleans Serilog Actor-Model Actors</tags>
         <dependencies>
