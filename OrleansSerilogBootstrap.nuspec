@@ -3,13 +3,12 @@
     <metadata>
         <id>SBTech.OrleansSerilogBootstrap</id>
         <version>@version@</version>
-        <title>OrleansSerilogBootstrap</title>
+        <title>SBTech OrleansSerilogBootstrap</title>
         <authors>AntyaDev</authors>
         <owners>AntyaDev, SBTech</owners>
         <licenseUrl>https://github.com/WeKnowSports/OrleansSerilogBootstrap/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/WeKnowSports/OrleansSerilogBootstrap</projectUrl>
-        <iconUrl>https://avatars3.githubusercontent.com/u/17160784?v=3&amp;s=200</iconUrl>
-        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <iconUrl>https://avatars3.githubusercontent.com/u/17160784?v=3&amp;s=200</iconUrl>        
         <description>Orleans Bootstrap to log data via Serilog:
                       1) intercept each grain call and log request and response.
                       2) log all available info which delivered by ILogConsumer
